@@ -1,0 +1,15 @@
+/static_camera/cam_overhead:
+  ros__parameters:
+    serial_no: "250122078210"
+    camera_name: "cam_overhead"
+    frame_id: "cam_overhead"
+
+    enable_color: true
+    enable_depth: true
+    enable_infra1: false
+    enable_infra2: false
+    enable_gyro: false
+    enable_accel: false
+
+    align_depth:
+      enable: true

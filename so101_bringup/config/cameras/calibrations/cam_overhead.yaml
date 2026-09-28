@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [976.6604788171948, 0.0, 627.2941075495103, 0.0, 979.7611513132802, 377.25958826216333,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: cam_overhead
+distortion_coefficients:
+  cols: 5
+  data: [0.1408702265139764, -0.568218860875711, 0.0012060000877175975, 0.000612552002547868,
+    0.6233730299120023]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 720
+image_width: 1280
+projection_matrix:
+  cols: 4
+  data: [986.4129805093647, 0.0, 628.9531183114331, 0.0, 0.0, 991.1329557151272, 377.7884000129488,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
